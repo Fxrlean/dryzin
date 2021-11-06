@@ -1,0 +1,11 @@
+main {
+    height: calc(100vh - (var(--headerHeight) * 2)) !important;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul {
+    margin: 20px 0;
+}
